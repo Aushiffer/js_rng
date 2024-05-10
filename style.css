@@ -1,0 +1,39 @@
+body {
+        font-family: sans-serif;
+        background-color: rgb(230, 230, 124);
+}
+
+h1 {
+        text-align: center;
+        margin-top: 40px;
+}
+
+span {
+        font-size: 5em;
+        font-weight: bold;
+}
+
+button {
+        transition: background-color 0.25s;
+        background-color: aliceblue;
+        border: 1px solid black;
+        border-radius: 5px;
+        cursor: pointer;
+        padding: 5px;
+        margin-left: 15px;
+        margin-right: 15px;
+}
+
+button:hover {
+        background-color: rgb(186, 190, 194);
+}
+
+input {
+        border-radius: 5px;
+        border: 1px solid black;
+}
+
+.container {
+        text-align: center;
+        margin: 40px;
+}
